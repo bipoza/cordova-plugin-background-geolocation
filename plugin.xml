@@ -116,8 +116,8 @@
         <source-file src="android/common/src/main/java/ru/andremoniy/sqlbuilder/SqlStatement.java" target-dir="src/ru/andremoniy/sqlbuilder" />
         <source-file src="android/common/src/main/java/ru/andremoniy/utils/TextUtils.java" target-dir="src/ru/andremoniy/utils" />
         <source-file src="android/common/src/oreo/java/com/marianhello/bgloc/BootCompletedReceiver.java" target-dir="src/com/marianhello/bgloc" />
-        <source-file src="android/common/src/oreo/java/com/marianhello/bgloc/NotificationHelper.java" target-dir="src/com/marianhello/bgloc" />
-        <source-file src="android/common/src/oreo/java/com/marianhello/bgloc/sync/SyncAdapter.java" target-dir="src/com/marianhello/bgloc/sync" />
+        <source-file src="android/common/src/preoreo/java/com/marianhello/bgloc/NotificationHelper.java" target-dir="src/com/marianhello/bgloc" />
+        <source-file src="android/common/src/preoreo/java/com/marianhello/bgloc/sync/SyncAdapter.java" target-dir="src/com/marianhello/bgloc/sync" />
         <!-- End of generated sources -->
 
         <resource-file src="android/common/src/main/res/xml/syncadapter.xml" target="res/xml/syncadapter.xml" />
